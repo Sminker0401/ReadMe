@@ -1,7 +1,7 @@
-# y [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# my read me [![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
 ## Description
-y
+writes my read me
 
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -12,17 +12,17 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [License](#license)
 
 ## Installation
-y
+node
 
 ## Usage
-y
+node
 
 ## License
-Apache
+IBM
 
 ## How to Contribute
-y
+through the terminal
 
 ## Tests
-y
+node index
   
